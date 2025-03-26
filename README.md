@@ -1,7 +1,6 @@
 # Информация о наборе данных
-
-## Авторы датасета
-Khan, H., Geys, L., baneke, p., Comi, G., & Peeters, L. (2024). Patient-level dataset to study the effect of COVID-19 in people with Multiple Sclerosis (version 1.0.1). PhysioNet. https://doi.org/10.13026/77ta-1866
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-gdsi/blob/main/GDSI_OpenDataset_Final.csv
 
 ## Версия датасета
 
@@ -75,3 +74,6 @@ Khan, H., Geys, L., baneke, p., Comi, G., & Peeters, L. (2024). Patient-level da
 - com_malignancy: указывает на наличие у пациента злокачественных новообразований. Возможные значения: “Yes” ("Да") (1.05%) и “No” ("Нет") (21.91%). Пропущенных значений: 77.03%.
 - com_neurological_neuromuscular: указывает на наличие у пациента сопутствующих неврологических или нервно-мышечных заболеваний. Возможные значения: “Yes” ("Да") (2.19%) и “No” ("Нет") (21.12%). Пропущенных значений: 76.68%.
 - comorbidities_other: указывает на наличие у пациента каких-либо других сопутствующих заболеваний, неуказанных в списке. Пропущенных значений: 79.66%. 
+
+## Авторы датасета
+Khan, H., Geys, L., baneke, p., Comi, G., & Peeters, L. (2024). Patient-level dataset to study the effect of COVID-19 in people with Multiple Sclerosis (version 1.0.1). PhysioNet. https://doi.org/10.13026/77ta-1866
